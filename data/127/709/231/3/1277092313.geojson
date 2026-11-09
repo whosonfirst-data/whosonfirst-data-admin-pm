@@ -41,7 +41,7 @@
         "gn:id":3425682
     },
     "wof:country":"PM",
-    "wof:geomhash":"d00ed3962f32edc477321f629c4f1e44",
+    "wof:geomhash":"1f6b1717d62590cc74a7dcb7489d8e9c",
     "wof:hierarchy":[
         {
             "continent":102191575,
@@ -69,5 +69,5 @@
     -56.36123000000001,
     46.86268
 ],
-  "geometry": {"coordinates":[-56.36123000000001,46.86268],"type":"Point"}
+  "geometry": {"coordinates":[-56.36123,46.86268],"type":"Point"}
 }

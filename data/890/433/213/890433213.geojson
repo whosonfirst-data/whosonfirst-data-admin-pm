@@ -97,7 +97,7 @@
     "qs:pop_sr":"3",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632371,
+        1158846601,
         85677297,
         136253037,
         102191575
@@ -117,7 +117,7 @@
             "continent":102191575,
             "continent_id":-1,
             "country_id":-1,
-            "dependency_id":85632371,
+            "dependency_id":1158846601,
             "empire_id":136253037,
             "locality_id":890433213,
             "region_id":85677297
